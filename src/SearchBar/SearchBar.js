@@ -23,7 +23,7 @@ export function SearchBar() {
                 </p>
                 <button className={`button is-medium ${styles["search-button"]}`}>
                     <span className={`icon is-small ${styles["search-icon"]}`}>
-                        <i class="fas fa-search"></i>
+                        <i className="fas fa-search"></i>
                     </span>
                 </button>
             </div>
